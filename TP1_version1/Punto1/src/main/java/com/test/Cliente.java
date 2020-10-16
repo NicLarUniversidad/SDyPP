@@ -20,7 +20,7 @@ public class Cliente {
 		Logger log = LoggerFactory.getLogger(Cliente.class);
 		IChronometer chr = UtilsFactory.createChronometer();
 		try {
-			Socket clientSocket = new Socket("localhost", 8000);
+			Socket clientSocket = new Socket("localhost", 12000);
 			BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 			PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
 			Scanner sc = new Scanner(System.in);

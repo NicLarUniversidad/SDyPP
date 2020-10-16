@@ -51,9 +51,9 @@ public class Servidor {
 		this.chr = chr;
 	}
 
-	public void runServer() throws UnknownHostException, IOException {
-		ServerSocket serverSocket = new ServerSocket(8000);
-		log.debug("Se ha levantado un servidor en el puerto 8000");
+	public void runServer(int port) throws UnknownHostException, IOException {
+		ServerSocket serverSocket = new ServerSocket(port);
+		log.debug("Se ha levantado un servidor en el puerto " + port);
 		while(run) {
 			Socket clientSocket = serverSocket.accept();
 			log.debug("Se ha aceptado una conexión con un cliente, su IP es " + clientSocket.getInetAddress().toString()

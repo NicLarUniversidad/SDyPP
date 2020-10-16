@@ -1,0 +1,6 @@
+2020-10-11 17:33:38,297 DEBUG [main] c.a.m.s.Servidor [Servidor.java:56] Se ha levantado un servidor en el puerto 12000
+2020-10-11 17:40:23,322 DEBUG [main] c.a.m.s.Servidor [Servidor.java:59] Se ha aceptado una conexión con un cliente, su IP es /0:0:0:0:0:0:0:1, puerto: 57236
+2020-10-11 17:40:55,399 DEBUG [main] c.a.m.s.Servidor [Servidor.java:74] Se ha recibido un mensaje:[ pepepepeeeeeeeeeekakakkakakakakkakakkakakakkakakkakakakakkakakakakkakakakkakakakOSOSOSOS] en 32072 milisegundos
+2020-10-11 17:40:55,402 DEBUG [main] c.a.m.s.Servidor [Servidor.java:71] Se ha recibido una cadena vacia, cerrando el servidor
+2020-10-11 17:40:55,407 DEBUG [main] c.a.m.s.Servidor [Servidor.java:80] Se ha cerrado el servidor
+2020-10-11 17:41:22,014 ERROR [main] c.t.Cliente [Cliente.java:53] Hubo un error I/O

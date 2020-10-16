@@ -10,7 +10,7 @@ public class ServerTest_b {
 	    {
 			Servidor sv = new Servidor();
 	    	try {
-				sv.runServer();
+				sv.runServer(13000);
 			} catch (UnknownHostException e) {
 				
 			} catch (IOException e) {

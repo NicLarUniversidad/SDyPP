@@ -15,7 +15,7 @@ public class ServerTest
     {
 		Servidor sv = new Servidor();
     	try {
-			sv.runServer();
+			sv.runServer(12000);
 		} catch (UnknownHostException e) {
 			
 		} catch (IOException e) {

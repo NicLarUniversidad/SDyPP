@@ -8,7 +8,7 @@
   </appender>
 
   <appender name="FILE" class="ch.qos.logback.core.FileAppender">
-    <file>logs/Punto6.log</file>
+    <file>logs/Punto5.log</file>
     <encoder>
       <pattern>%date %-5level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
     </encoder>

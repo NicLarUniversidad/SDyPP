@@ -1,0 +1,43 @@
+2020-12-16 11:06:16,183 DEBUG [main] o.s.Logger [RabbitMQHandler.java:38] Recibido: 
+	Objeto: org.example.Archivo@c730b35
+	Cola: colaCompartidos
+2020-12-16 11:10:09,834 DEBUG [main] o.s.Logger [RabbitMQHandler.java:40] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 11:10:45,431 DEBUG [main] o.s.Logger [RabbitMQHandler.java:40] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 11:18:36,896 DEBUG [main] o.s.Logger [RabbitMQHandler.java:40] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 11:20:50,836 DEBUG [main] o.s.Logger [RabbitMQHandler.java:40] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:22:43,625 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:24:12,087 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:25:45,006 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:42:45,571 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:43:44,289 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:47:00,362 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 12:49:25,536 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
+2020-12-16 13:02:38,030 DEBUG [main] o.s.Logger [RabbitMQHandler.java:36] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+2020-12-16 13:02:38,037 DEBUG [main] o.s.Logger [RabbitMQHandler.java:37] Recibido: 
+	Cola: colaCompartidos
+2020-12-16 13:02:38,039 DEBUG [main] o.s.Logger [RabbitMQHandler.java:38] Recibido: 
+	Objeto: {"ip":"localhost","puerto":"8000","path":"pepe.txt"}
+	Cola: colaCompartidos
